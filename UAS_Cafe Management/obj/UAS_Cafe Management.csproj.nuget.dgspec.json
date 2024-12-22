@@ -1,32 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pongo\\Documents\\DESNA SEMESTER 3\\UAS_Cafe Management\\UAS_Cafe Management\\UAS_Cafe Management\\UAS_Cafe Management.csproj": {}
+    "/Users/apple/Documents/desna/cafe/UAS_Cafe Management/UAS_Cafe Management.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pongo\\Documents\\DESNA SEMESTER 3\\UAS_Cafe Management\\UAS_Cafe Management\\UAS_Cafe Management\\UAS_Cafe Management.csproj": {
+    "/Users/apple/Documents/desna/cafe/UAS_Cafe Management/UAS_Cafe Management.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pongo\\Documents\\DESNA SEMESTER 3\\UAS_Cafe Management\\UAS_Cafe Management\\UAS_Cafe Management\\UAS_Cafe Management.csproj",
+        "projectUniqueName": "/Users/apple/Documents/desna/cafe/UAS_Cafe Management/UAS_Cafe Management.csproj",
         "projectName": "UAS_Cafe Management",
-        "projectPath": "C:\\Users\\Pongo\\Documents\\DESNA SEMESTER 3\\UAS_Cafe Management\\UAS_Cafe Management\\UAS_Cafe Management\\UAS_Cafe Management.csproj",
-        "packagesPath": "C:\\Users\\Pongo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pongo\\Documents\\DESNA SEMESTER 3\\UAS_Cafe Management\\UAS_Cafe Management\\UAS_Cafe Management\\obj\\",
+        "projectPath": "/Users/apple/Documents/desna/cafe/UAS_Cafe Management/UAS_Cafe Management.csproj",
+        "packagesPath": "/Users/apple/.nuget/packages/",
+        "outputPath": "/Users/apple/Documents/desna/cafe/UAS_Cafe Management/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Pongo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/apple/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0-windows"
+          "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0-windows7.0": {
-            "targetAlias": "net8.0-windows",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -39,11 +38,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net8.0-windows7.0": {
-          "targetAlias": "net8.0-windows",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "MySql.Data": {
               "target": "Package",
@@ -61,15 +61,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
-              "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
