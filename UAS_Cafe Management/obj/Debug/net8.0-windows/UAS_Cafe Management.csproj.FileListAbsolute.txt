@@ -1,0 +1,75 @@
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\bin\Debug\net8.0-windows\UAS_Cafe Management.exe
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\bin\Debug\net8.0-windows\UAS_Cafe Management.deps.json
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\bin\Debug\net8.0-windows\UAS_Cafe Management.runtimeconfig.json
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\bin\Debug\net8.0-windows\UAS_Cafe Management.dll
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\bin\Debug\net8.0-windows\UAS_Cafe Management.pdb
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.Form1.resources
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe Management.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe Management.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe Management.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe Management.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe Management.dll
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\refint\UAS_Cafe Management.dll
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe Management.pdb
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe Management.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\ref\UAS_Cafe Management.dll
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.Properties.Resources.resources
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\bin\Debug\net8.0-windows\aa\UAS_Cafe Management.resources.dll
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.beranda_food.resources
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.beranda_food.aa.resources
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\aa\UAS_Cafe Management.resources.dll
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.Form2.resources
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.Profile_Admin.resources
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.Admin_ProfileScreen.resources
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.Beranda_Bavarage.resources
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.GroupMenu_Admin.resources
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.Kategori_Admin.resources
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.Menu_Admin.resources
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.Pembayaran_User.resources
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.Struk_User.resources
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.User_Profile.resources
+C:\Users\Lenovo\Documents\kaii kuliah\semester 3\Pemrogaman Berbasis Object\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.dashboard_admin.resources
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe Management.dll
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\refint\UAS_Cafe Management.dll
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe Management.pdb
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe Management.csproj.AssemblyReference.cache
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\bin\Debug\net8.0-windows\UAS_Cafe Management.exe
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\bin\Debug\net8.0-windows\UAS_Cafe Management.deps.json
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\bin\Debug\net8.0-windows\UAS_Cafe Management.runtimeconfig.json
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\bin\Debug\net8.0-windows\UAS_Cafe Management.dll
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\bin\Debug\net8.0-windows\UAS_Cafe Management.pdb
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\bin\Debug\net8.0-windows\aa\UAS_Cafe Management.resources.dll
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\bin\Debug\net8.0-windows\Ubiety.Dns.Core.dll
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\bin\Debug\net8.0-windows\ZstdNet.dll
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.Admin_ProfileScreen.resources
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.Beranda_Bavarage.resources
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.beranda_food.resources
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.Form2.resources
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.dashboard_admin.resources
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.Form1.resources
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.GroupMenu_Admin.resources
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.Kategori_Admin.resources
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.Menu_Admin.resources
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.orderan_admincs.resources
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.Pembayaran_User.resources
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.Profile_Admin.resources
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.Properties.Resources.resources
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.Struk_User.resources
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.User_Profile.resources
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe_Management.beranda_food.aa.resources
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe Management.csproj.GenerateResource.cache
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe Management.AssemblyInfoInputs.cache
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe Management.AssemblyInfo.cs
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe Management.csproj.CoreCompileInputs.cache
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\aa\UAS_Cafe Management.resources.dll
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe.C3D9BF2D.Up2Date
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\UAS_Cafe Management.genruntimeconfig.cache
+C:\Users\Pongo\Documents\DESNA SEMESTER 3\UAS_Cafe Management\UAS_Cafe Management\UAS_Cafe Management\obj\Debug\net8.0-windows\ref\UAS_Cafe Management.dll
